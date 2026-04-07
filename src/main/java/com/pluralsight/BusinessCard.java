@@ -8,9 +8,9 @@ public class BusinessCard {
         String motto = "Work hard. Be strong. Don't complain.";
         int age = 21;
         char initial = 'M';
-        double gpa = 8.5;
-        float hourlyRate = 17.5f;
-        long phoneNumber = 6613098294L;
+        double gpa = 4;
+        float hourlyRate = 22.5f;
+        long phoneNumber = 16613098294L;
         boolean availableForWork = true;
 
         System.out.println("================================================");
